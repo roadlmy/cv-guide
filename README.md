@@ -1,7 +1,3 @@
----
-description: 前言
----
-
 # 面试方法论系列
 
 ### 一、系列说明 <a href="#kwufq" id="kwufq"></a>
